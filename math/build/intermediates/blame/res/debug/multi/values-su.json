@@ -1,0 +1,335 @@
+[
+    {
+        "outputFile": "/home/polostod-dev/Documents/Java/MathLearn/math/build/intermediates/res/merged/debug/values-su/values-su.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 70,
+                    "endOffset": 121
+                },
+                "from": {
+                    "file": "/home/polostod-dev/Documents/Java/MathLearn/math/src/main/res/values-su/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 65,
+                        "endColumn": 70,
+                        "endOffset": 131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 126,
+                    "endColumn": 46,
+                    "endOffset": 168
+                },
+                "from": {
+                    "file": "/home/polostod-dev/Documents/Java/MathLearn/math/src/main/res/values-su/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 46,
+                        "endOffset": 59
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 173,
+                    "endColumn": 102,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "/home/polostod-dev/Documents/Java/MathLearn/math/src/main/res/values-su/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 137,
+                        "endColumn": 102,
+                        "endOffset": 235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 55,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "/home/polostod-dev/Documents/Java/MathLearn/math/src/main/res/values-su/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 241,
+                        "endColumn": 55,
+                        "endOffset": 292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 332,
+                    "endColumn": 70,
+                    "endOffset": 398
+                },
+                "from": {
+                    "file": "/home/polostod-dev/Documents/Java/MathLearn/math/src/main/res/values-su/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 298,
+                        "endColumn": 70,
+                        "endOffset": 364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 403,
+                    "endColumn": 41,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "/home/polostod-dev/Documents/Java/MathLearn/math/src/main/res/values-su/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 415,
+                        "endColumn": 41,
+                        "endOffset": 452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 43,
+                    "endOffset": 484
+                },
+                "from": {
+                    "file": "/home/polostod-dev/Documents/Java/MathLearn/math/src/main/res/values-su/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 370,
+                        "endColumn": 43,
+                        "endOffset": 409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 489,
+                    "endColumn": 53,
+                    "endOffset": 538
+                },
+                "from": {
+                    "file": "/home/polostod-dev/Documents/Java/MathLearn/math/src/main/res/values-su/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 574,
+                        "endColumn": 53,
+                        "endOffset": 623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 543,
+                    "endColumn": 56,
+                    "endOffset": 595
+                },
+                "from": {
+                    "file": "/home/polostod-dev/Documents/Java/MathLearn/math/src/main/res/values-su/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 629,
+                        "endColumn": 56,
+                        "endOffset": 681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 600,
+                    "endColumn": 54,
+                    "endOffset": 650
+                },
+                "from": {
+                    "file": "/home/polostod-dev/Documents/Java/MathLearn/math/src/main/res/values-su/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 458,
+                        "endColumn": 54,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 655,
+                    "endColumn": 56,
+                    "endOffset": 707
+                },
+                "from": {
+                    "file": "/home/polostod-dev/Documents/Java/MathLearn/math/src/main/res/values-su/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endColumn": 56,
+                        "endOffset": 568
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/build/intermediates/res/merged/debug/values-su/values-su.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 204,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "/home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/res/values-su/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 204,
+                        "endOffset": 217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endColumn": 55,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "/home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/res/values-su/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 55,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endColumn": 70,
+                    "endOffset": 382
+                },
+                "from": {
+                    "file": "/home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/res/values-su/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 70,
+                        "endOffset": 346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 387,
+                    "endColumn": 41,
+                    "endOffset": 424
+                },
+                "from": {
+                    "file": "/home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/res/values-su/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 397,
+                        "endColumn": 41,
+                        "endOffset": 434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 429,
+                    "endColumn": 43,
+                    "endOffset": 468
+                },
+                "from": {
+                    "file": "/home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/res/values-su/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 352,
+                        "endColumn": 43,
+                        "endOffset": 391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 473,
+                    "endColumn": 54,
+                    "endOffset": 523
+                },
+                "from": {
+                    "file": "/home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/res/values-su/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 440,
+                        "endColumn": 54,
+                        "endOffset": 490
+                    }
+                }
+            }
+        ]
+    }
+]

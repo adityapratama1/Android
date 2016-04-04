@@ -1,0 +1,105 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml
+		INJECTED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml
+		INJECTED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml
+		INJECTED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml
+application
+ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:5:5-44:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:8:9-41
+	android:allowBackup
+		ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:9:9-40
+activity#com.example.polostoddev.math.splash
+ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:10:9-19:20
+	android:screenOrientation
+		ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:12:13-50
+	android:theme
+		ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:13:13-71
+	android:name
+		ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:11:13-35
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:17:27-74
+activity#com.example.polostoddev.math.Easy
+ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:20:9-23:74
+	android:screenOrientation
+		ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:22:13-50
+	android:theme
+		ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:23:13-71
+	android:name
+		ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:21:13-33
+activity#com.example.polostoddev.math.MainActivity
+ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:24:9-27:74
+	android:screenOrientation
+		ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:26:13-50
+	android:theme
+		ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:27:13-71
+	android:name
+		ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:25:13-41
+activity#com.example.polostoddev.math.Easy2
+ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:28:9-31:74
+	android:screenOrientation
+		ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:30:13-50
+	android:theme
+		ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:31:13-71
+	android:name
+		ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:29:13-34
+activity#com.example.polostoddev.math.Easy3
+ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:32:9-35:74
+	android:screenOrientation
+		ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:34:13-50
+	android:theme
+		ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:35:13-71
+	android:name
+		ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:33:13-34
+activity#com.example.polostoddev.math.Easy4
+ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:36:9-39:74
+	android:screenOrientation
+		ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:38:13-50
+	android:theme
+		ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:39:13-71
+	android:name
+		ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:37:13-34
+activity#com.example.polostoddev.math.Easy5
+ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:40:9-43:74
+	android:screenOrientation
+		ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:42:13-50
+	android:theme
+		ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:43:13-71
+	android:name
+		ADDED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml:41:13-34
+uses-sdk
+INJECTED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml
+		INJECTED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml
+		INJECTED from /home/satriodwiprabowo/Polostod-Developers/Android-Project/MathLearn/math/src/main/AndroidManifest.xml
